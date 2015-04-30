@@ -45,6 +45,6 @@ The 1000 Genomes end point is one of several EMBL-EBI hosted end points and is c
 
 When you have setup your personal end point you should be able to start a transfer using their web front end.
 
-![Globus screenshot](http://www.1000genomes.org/sites/1000genomes.org/files/documents/globus_1000genomes.png)
+![Globus screenshot]({{ '/images/globus_1000genomes.png' | prepend: site.baseurl }})
 
 The Globus website has support for [setting up accounts](https://support.globus.org/entries/23583857-Sign-Up-and-Transfer-Files-with-Globus-Online), and [installing the globus personal connect software](https://support.globus.org/forums/22130516-Globus-Connect-Personal)
