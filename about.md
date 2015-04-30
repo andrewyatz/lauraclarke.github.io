@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About IGSR and 1000 Genomes
+title: About IGSR and the 1000 Genomes Project
 permalink: /about/
 order: 1
 ---
