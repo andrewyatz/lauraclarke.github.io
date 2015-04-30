@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About IGSR
-permalink: /aboutigsr/
+title: Data Access
+permalink: /data/
+order: 10
 ---
-#The International Genome Sample Resource - 1000 Genomes Sample Data
+#IGSR - 1000 Genomes Sample Data
 
 The International Genome Sample Resource (IGSR) presents all the data it has on the 1000 Genomes samples through the [1000 Genomes FTP site](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/) and the [mirror site](ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/) hosted at the NCBI
 
