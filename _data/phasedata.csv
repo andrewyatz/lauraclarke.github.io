@@ -1,0 +1,4 @@
+release,variants,individuals,populations,vcf,seq,supporting
+Phase 3,84 million,2504,26,ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/,ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3,ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/supporting/
+Phase 1,? million,1092,14,ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20110521/,ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase1,ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20110521/supporting/
+Pilot,? million,553,6,ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/pilot_data/release/2010_07/,ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/pilot_data,

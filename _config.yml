@@ -10,5 +10,10 @@ url: "http://andrewyatz.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  igsr
 
+# IGSR settings
+ebi_ftp: ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/
+ncbi_ftp: ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/
+
 # Build settings
 markdown: kramdown
+
